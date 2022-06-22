@@ -2,13 +2,13 @@
 
 _**Games For Everyone.**_
 
-### Endurance: Space Adventure
+## Endurance: Space Adventure
+### Download
 [Download on App Store (Coming soon)](https://apps.apple.com)
 
 [Download on Google Play (Coming soon)](https://play.google.com)
 
-### Privacy Policy
-**Privacy Policy**
+### Privacy Policy for Endurance
 
 Vonzour, by Seokwoo Hong built the Endurance: Space Adventure app as an Ad Supported app. This SERVICE is provided by Vonzour, by Seokwoo Hong at no cost and is intended for use as is.
 
